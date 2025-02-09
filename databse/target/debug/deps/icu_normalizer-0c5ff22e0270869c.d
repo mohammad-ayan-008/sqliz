@@ -1,0 +1,11 @@
+D:\RUST_PROGRAMMES\sqliz\databse\target\debug\deps\libicu_normalizer-0c5ff22e0270869c.rmeta: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\error.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\properties.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\provider.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\uts46.rs
+
+D:\RUST_PROGRAMMES\sqliz\databse\target\debug\deps\libicu_normalizer-0c5ff22e0270869c.rlib: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\error.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\properties.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\provider.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\uts46.rs
+
+D:\RUST_PROGRAMMES\sqliz\databse\target\debug\deps\icu_normalizer-0c5ff22e0270869c.d: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\error.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\properties.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\provider.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\uts46.rs
+
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\lib.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\error.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\properties.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\provider.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\icu_normalizer-1.5.0\src\uts46.rs:

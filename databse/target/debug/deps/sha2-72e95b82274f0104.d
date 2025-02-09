@@ -1,0 +1,13 @@
+D:\RUST_PROGRAMMES\sqliz\databse\target\debug\deps\libsha2-72e95b82274f0104.rmeta: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\core_api.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\consts.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\soft.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\x86.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\soft.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\x86.rs
+
+D:\RUST_PROGRAMMES\sqliz\databse\target\debug\deps\sha2-72e95b82274f0104.d: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\core_api.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\consts.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\soft.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\x86.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\soft.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\x86.rs
+
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\lib.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\core_api.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\consts.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\soft.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha256\x86.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\soft.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\sha2-0.10.8\src\sha512\x86.rs:

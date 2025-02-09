@@ -1,0 +1,1 @@
+D:\RUST_PROGRAMMES\sqliz\databse\target\tests\trybuild\x86_64-pc-windows-msvc\debug\databse-tests.exe: D:\RUST_PROGRAMMES\sqliz\databse\src\lib.rs D:\RUST_PROGRAMMES\sqliz\databse\target\tests\trybuild\databse\main.rs D:\RUST_PROGRAMMES\sqliz\utils\src\lib.rs

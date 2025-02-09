@@ -1,0 +1,11 @@
+D:\RUST_PROGRAMMES\sqliz\databse\target\debug\deps\libwriteable-adb7075238219ffd.rmeta: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\cmp.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\impls.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\ops.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\parts_write_adapter.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\testing.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\try_writeable.rs
+
+D:\RUST_PROGRAMMES\sqliz\databse\target\debug\deps\writeable-adb7075238219ffd.d: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\cmp.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\impls.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\ops.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\parts_write_adapter.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\testing.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\try_writeable.rs
+
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\lib.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\cmp.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\impls.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\ops.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\parts_write_adapter.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\testing.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\writeable-0.5.5\src\try_writeable.rs:

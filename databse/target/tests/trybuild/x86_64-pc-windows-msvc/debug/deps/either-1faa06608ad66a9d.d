@@ -1,0 +1,11 @@
+D:\RUST_PROGRAMMES\sqliz\databse\target\tests\trybuild\x86_64-pc-windows-msvc\debug\deps\libeither-1faa06608ad66a9d.rmeta: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs
+
+D:\RUST_PROGRAMMES\sqliz\databse\target\tests\trybuild\x86_64-pc-windows-msvc\debug\deps\libeither-1faa06608ad66a9d.rlib: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs
+
+D:\RUST_PROGRAMMES\sqliz\databse\target\tests\trybuild\x86_64-pc-windows-msvc\debug\deps\either-1faa06608ad66a9d.d: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs
+
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\lib.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\serde_untagged_optional.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\iterator.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\either-1.13.0\src\into_either.rs:

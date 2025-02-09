@@ -1,0 +1,12 @@
+D:\RUST_PROGRAMMES\sqliz\databse\target\tests\trybuild\x86_64-pc-windows-msvc\debug\deps\libtinystr-2d5a3ad10dcd5dfb.rmeta: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs
+
+D:\RUST_PROGRAMMES\sqliz\databse\target\tests\trybuild\x86_64-pc-windows-msvc\debug\deps\tinystr-2d5a3ad10dcd5dfb.d: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs
+
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\lib.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\macros.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ascii.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\asciibyte.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\error.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\int_ops.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\unvalidated.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.6\src\ule.rs:

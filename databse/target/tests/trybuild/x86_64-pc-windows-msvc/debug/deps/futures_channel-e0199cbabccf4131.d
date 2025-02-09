@@ -1,0 +1,10 @@
+D:\RUST_PROGRAMMES\sqliz\databse\target\tests\trybuild\x86_64-pc-windows-msvc\debug\deps\libfutures_channel-e0199cbabccf4131.rmeta: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src/lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\sink_impl.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs
+
+D:\RUST_PROGRAMMES\sqliz\databse\target\tests\trybuild\x86_64-pc-windows-msvc\debug\deps\futures_channel-e0199cbabccf4131.d: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src/lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\sink_impl.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs
+
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src/lib.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\lock.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\mod.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\queue.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\mpsc\sink_impl.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\futures-channel-0.3.31\src\oneshot.rs:

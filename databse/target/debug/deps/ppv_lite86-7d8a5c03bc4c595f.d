@@ -1,0 +1,11 @@
+D:\RUST_PROGRAMMES\sqliz\databse\target\debug\deps\libppv_lite86-7d8a5c03bc4c595f.rmeta: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src/lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\soft.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\types.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\x86_64\mod.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\x86_64\sse2.rs
+
+D:\RUST_PROGRAMMES\sqliz\databse\target\debug\deps\libppv_lite86-7d8a5c03bc4c595f.rlib: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src/lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\soft.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\types.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\x86_64\mod.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\x86_64\sse2.rs
+
+D:\RUST_PROGRAMMES\sqliz\databse\target\debug\deps\ppv_lite86-7d8a5c03bc4c595f.d: D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src/lib.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\soft.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\types.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\x86_64\mod.rs D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\x86_64\sse2.rs
+
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src/lib.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\soft.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\types.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\x86_64\mod.rs:
+D:\RUST\.cargo\bin\registry\src\index.crates.io-6f17d22bba15001f\ppv-lite86-0.2.20\src\x86_64\sse2.rs:

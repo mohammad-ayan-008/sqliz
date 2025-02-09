@@ -1,0 +1,11 @@
+[package]
+name = "sqliz"
+version = "0.1.0"
+edition = "2021"
+
+[[Test]]
+name="tests"
+path = "Tests/testcases.rs"
+
+
+[dependencies]
