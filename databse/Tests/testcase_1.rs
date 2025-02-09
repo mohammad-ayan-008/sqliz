@@ -17,6 +17,7 @@ impl std::fmt::Display for Student {
     }
 }
 
+
 #[tokio::main]
 async fn main()-> Result<(), Box<dyn std::error::Error>> {
     let mut data = Initializatons::initializer().await.unwrap();
